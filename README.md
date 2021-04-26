@@ -1,7 +1,7 @@
 ### Hi I'm Jungin 👋
 
 - 💻 I’m currently working on <b>Mobile Application Projects</b>
-- 📚 I’m currently learning <b>Dart</b>, <b>Kotlin</b>
+- 📚 I’m currently learning <b>Kotlin</b>
 
 ### Summary
 
